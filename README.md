@@ -1,4 +1,4 @@
-# Forked project of isle-portable, before the "Claude" user was listed as a contributor onto the project. I cannot verify that commits before this didnt use AI as part of its commit process. anything after this involved claude however. this repo is for people who do NOT want AI in their projects (like me) to use or modify onto.
+# Forked project of isle-portable, before the "Claude" user was listed as a contributor onto the project. I cannot verify that commits before this didnt use AI as part of its commit process, however anything after this involved claude. this repo is for people who do NOT want AI in their projects (like me) to use or modify onto.
 # LEGO Island, portable
 
 [Development Vlog](https://www.youtube.com/playlist?list=PLbpl-gZkNl2Db4xcAsT_xOfOwRk-2DPHL) | [Contributing](/CONTRIBUTING.md) | [Matrix](https://matrix.to/#/#isledecomp:matrix.org) | [Forums](https://forum.mattkc.com/viewforum.php?f=1) | [Patreon](https://www.patreon.com/mattkc)
